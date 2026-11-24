@@ -5,6 +5,7 @@ Gioco della vita di Conway scritto in python.
 Caratteristiche:
 - Modelli principali predefiniti nella libreria.
 - Possibilità di editare e salvare nuovi modelli.
+- Importazione e salvataggio modelli in formato .rle
 - Modalità a finestra infinita o dimensione limitata
 - Velocità simulazione
 - Zoom sulla griglia 
