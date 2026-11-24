@@ -1,3 +1,4 @@
+#Ver 0.1
 import pygame
 import sys
 import json
